@@ -26,7 +26,7 @@
 		<velocity-dep.version>1.4</velocity-dep.version>
 		<guice.version>3.0</guice.version>
 		<json-path.version>2.4.0</json-path.version>
-		<jackson-databind.version>2.9.10.4</jackson-databind.version>
+		<jackson-databind.version>2.9.10.5</jackson-databind.version>
 		<json-unit.version>1.23.0</json-unit.version>
 		<guava.version>18.0</guava.version>
 	</properties>
